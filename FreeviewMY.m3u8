@@ -1,43 +1,43 @@
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-chno="101" tvg-id="ext" tvg-name="RTM01" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMSatu.png" group-title="Radio Televisyen Malaysia (RTM)",RTM Satu
+#EXTINF:-1 tvg-chno="101" tvg-id="RTM" tvg-name="RTM01" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMSatu.png" group-title="Radio Televisyen Malaysia (RTM)",RTM Satu
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
-#EXTINF:-1 tvg-chno="102" tvg-id="ext" tvg-name="RTM02" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main//channel-logos/RTMDua.png" group-title="Radio Televisyen Malaysia (RTM)",RTM Dua
+#EXTINF:-1 tvg-chno="102" tvg-id="RTM" tvg-name="RTM02" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main//channel-logos/RTMDua.png" group-title="Radio Televisyen Malaysia (RTM)",RTM Dua
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
-#EXTINF:-1 tvg-chno="103" tvg-id="ext" tvg-name="RTM03" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMOkey.png" group-title="Radio Televisyen Malaysia (RTM)",RTM Okey
+#EXTINF:-1 tvg-chno="103" tvg-id="RTM" tvg-name="RTM03" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMOkey.png" group-title="Radio Televisyen Malaysia (RTM)",RTM Okey
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
-#EXTINF:-1 tvg-chno="104" tvg-id="ext" tvg-name="RTM04" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/SukanRTM.png" group-title="Radio Televisyen Malaysia (RTM)",Sukan RTM
+#EXTINF:-1 tvg-chno="104" tvg-id="RTM" tvg-name="RTM04" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/SukanRTM.png" group-title="Radio Televisyen Malaysia (RTM)",Sukan RTM
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
-#EXTINF:-1 tvg-chno="105" tvg-id="ext" tvg-name="RTM05" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/BeritaRTM.png" group-title="Radio Televisyen Malaysia (RTM)",Berita RTM
+#EXTINF:-1 tvg-chno="105" tvg-id="RTM" tvg-name="RTM05" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/BeritaRTM.png" group-title="Radio Televisyen Malaysia (RTM)",Berita RTM
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
-#EXTINF:-1 tvg-chno="106" tvg-id="ext" tvg-name="RTM06" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMEnam.png" group-title="Radio Televisyen Malaysia (RTM)",RTM Enam
+#EXTINF:-1 tvg-chno="106" tvg-id="RTM" tvg-name="RTM06" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMEnam.png" group-title="Radio Televisyen Malaysia (RTM)",RTM Enam
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
-#EXTINF:-1 tvg-chno="107" tvg-id="ext" tvg-name="RTMP01" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMP_DewanRakyat.png" group-title="Radio Televisyen Malaysia (RTM)",RTM Parlimen Dewan Rakyat
+#EXTINF:-1 tvg-chno="107" tvg-id="RTM" tvg-name="RTMP01" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMP_DewanRakyat.png" group-title="Radio Televisyen Malaysia (RTM)",RTM Parlimen Dewan Rakyat
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8?id=7
-#EXTINF:-1 tvg-chno="108" tvg-id="ext" tvg-name="RTMP02" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMP_DewanNegara.png" group-title="Radio Televisyen Malaysia (RTM)",RTM Parlimen Dewan Negara
+#EXTINF:-1 tvg-chno="108" tvg-id="RTM" tvg-name="RTMP02" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMP_DewanNegara.png" group-title="Radio Televisyen Malaysia (RTM)",RTM Parlimen Dewan Negara
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?id=8
 
-#EXTINF:-1 tvg-chno="113" tvg-id="ext" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-tv3.png" group-title="Media Prima",TV3
+#EXTINF:-1 tvg-chno="113" tvg-id="MPB" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-tv3.png" group-title="Media Prima",TV3
 #EXTVLCOPT:network-caching=1000
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
-#EXTINF:-1 tvg-chno="116" tvg-id="ext" tvg-name="MPB06" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-dramasangat.png" group-title="Media Prima",Drama Sangat
+#EXTINF:-1 tvg-chno="116" tvg-id="MPB" tvg-name="MPB06" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-dramasangat.png" group-title="Media Prima",Drama Sangat
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-#EXTINF:-1 tvg-chno="117" tvg-id="ext" tvg-name="NTV7" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-ntv7.png" group-title="Media Prima",DidikTV KPM (NTV7)
+#EXTINF:-1 tvg-chno="117" tvg-id="MPB" tvg-name="NTV7" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-ntv7.png" group-title="Media Prima",DidikTV KPM (NTV7)
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
-#EXTINF:-1 tvg-chno="118" tvg-id="ext" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-8tv.png" group-title="Media Prima",8TV
+#EXTINF:-1 tvg-chno="118" tvg-id="MPB" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-8tv.png" group-title="Media Prima",8TV
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-#EXTINF:-1 tvg-chno="119" tvg-id="ext" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-tv9.png" group-title="Media Prima",TV9
+#EXTINF:-1 tvg-chno="119" tvg-id="MPB" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-tv9.png" group-title="Media Prima",TV9
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
@@ -78,10 +78,10 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 #EXTVLCOPT:network-caching=1000
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-chno="601" tvg-id="CNA" tvg-logo="https://gitlab.com/ipteevee/freeviewmy/-/raw/main/channel-logos/intl/CNA.png" group-title="International News",CNA Singapore
+#EXTINF:-1 tvg-chno="601" tvg-logo="https://gitlab.com/ipteevee/freeviewmy/-/raw/main/channel-logos/intl/CNA.png" group-title="International News",CNA Singapore
 #EXTVLCOPT:network-caching=1000
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-chno="602" tvg-id="NHKW-JPN" tvg-logo="https://gitlab.com/ipteevee/freeviewmy/-/raw/main/channel-logos/intl/NHKWorldJapan.png" group-title="International News",NHK World Japan
+#EXTINF:-1 tvg-chno="602" tvg-logo="https://gitlab.com/ipteevee/freeviewmy/-/raw/main/channel-logos/intl/NHKWorldJapan.png" group-title="International News",NHK World Japan
 #EXTVLCOPT:network-caching=1000
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/CGTN.png" group-title="International News",CGTN
