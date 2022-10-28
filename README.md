@@ -4,7 +4,7 @@
 
 ## How to use?
 
-Just copy [this link](https://gitlab.com/ipteevee/freeviewmy/-/raw/main/IPTV-FreeviewMY.m3u8) or type https://cutt.ly/IPTV-FreeviewMY on any supported IPTV players.
+Just copy [this link](https://raw.githubusercontent.com/itszairi/FreeviewMY/main/FreeviewMY.m3u8) or type https://cutt.ly/FreeviewMY on any supported IPTV players.
 
 ## Credits
 
