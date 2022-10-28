@@ -95,19 +95,19 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-chno="606" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/ABCNews-Australia.png" group-title="International News",ABC News Australia
 #EXTVLCOPT:network-caching=1000
-https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NewsOnABC/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NewsOnABC/live
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/DWNews.png" group-title="International News",DW News
 #EXTVLCOPT:network-caching=1000
-https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/dwnews/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/dwnews/live
 #EXTINF:-1 tvg-chno="608" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Euronews.png" group-title="International News",Euronews
 #EXTVLCOPT:network-caching=1000
-https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/EuronewsUSA/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/EuronewsUSA/live
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/ABCNews.png" group-title="International News",ABC News
 #EXTVLCOPT:network-caching=1000
-https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ABCNews/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ABCNews/live
 #EXTINF:-1 tvg-chno="612" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/CBSNews.png" group-title="International News",CBS News
 #EXTVLCOPT:network-caching=1000
-https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CBSNews/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CBSNews/live
 
 #EXTINF:-1 tvg-chno="701" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RedBullTV.png" group-title="International Sports",Red Bull TV
 #EXTVLCOPT:network-caching=1000
