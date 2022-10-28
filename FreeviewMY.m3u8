@@ -99,7 +99,7 @@ https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/News
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/DWNews.png" group-name="International News",DW News
 #EXTVLCOPT:network-caching=1000
 https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/dwnews/live
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/euronews.png" group-name="International News",Euronews
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Euronews.png" group-name="International News",Euronews
 #EXTVLCOPT:network-caching=1000
 https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/EuronewsUSA/live
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/ABCNews.png" group-name="International News",ABC News
