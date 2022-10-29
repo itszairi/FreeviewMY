@@ -67,7 +67,7 @@ http://51.210.199.33/hls/stream.m3u8
 
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/ET.png" group-title="International",ET Live
 #EXTVLCOPT:network-caching=1000
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+https://dai.google.com/linear/hls/pb/event/xrVrJYTmTfitfXBQfeZByQ/stream/6c51fa68-48ff-4a37-a4e4-f7213ce5fd91:SIN/variant/f8776b964b37880bde2f4cec8b7ea35b/bandwidth/5860800.m3u8
 #EXTINF:-1 tvg-chno="511" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/FashionTV.png" group-title="International",Fashion TV
 #EXTVLCOPT:network-caching=1000
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
