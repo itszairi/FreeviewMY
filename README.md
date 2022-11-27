@@ -8,5 +8,5 @@ Just copy [this link](https://raw.githubusercontent.com/itszairi/FreeviewMY/main
 
 ## Credits
 
-1. samleong123 on [Github](https://github.com/samleong123)
-2. weareblahs on [Github](https://github.com/weareblahs)
+1. ~~samleong123 on [Github](https://github.com/samleong123)~~
+2. ~~weareblahs on [Github](https://github.com/weareblahs)~~
