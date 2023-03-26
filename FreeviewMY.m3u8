@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-chno="101" tvg-id="RTM" tvg-name="RTM01" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMSatu.png" group-title="Radio Televisyen Malaysia (RTM)",RTM Satu
 #EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 #EXTINF:-1 tvg-chno="102" tvg-id="RTM" tvg-name="RTM02" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main//channel-logos/RTMDua.png" group-title="Radio Televisyen Malaysia (RTM)",RTM Dua
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
