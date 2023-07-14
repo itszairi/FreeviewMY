@@ -31,7 +31,7 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
 #EXTINF:-1 tvg-chno="116" tvg-id="MPB" tvg-name="MPB06" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-dramasangat.png" group-title="Media Prima",Drama Sangat
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-#EXTINF:-1 tvg-chno="117" tvg-id="MPB" tvg-name="NTV7" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-ntv7.png" group-title="Media Prima",DidikTV KPM (NTV7)
+#EXTINF:-1 tvg-chno="117" tvg-id="MPB" tvg-name="NTV7" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-ntv7.png" group-title="Media Prima",NTV7
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 #EXTINF:-1 tvg-chno="118" tvg-id="MPB" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-8tv.png" group-title="Media Prima",8TV
@@ -58,7 +58,7 @@ https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 https://live.mana2.my/SukeTv/index.m3u8
 #EXTINF:-1 tvg-chno="150" tvg-id="AMC.my" tvg-name="TV Alhijrah" tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg" group-title="Others",TV Alhijrah
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/TVAH/index.m3u8
+https://live.mana2.my/TvAlhijrah/index.m3u8
 #EXTINF:-1 tvg-chno="151" tvg-id="TVIkim.my" tvg-name="TVIkim.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/tvikim.png" group-title="Others",TV Ikim
 #EXTVLCOPT:network-caching=1000
 http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
