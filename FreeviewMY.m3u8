@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-chno="101" tvg-id="RTM" tvg-name="RTM01" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMSatu.png" group-title="Radio Televisyen Malaysia (RTM)",RTM1
+#EXTINF:-1 tvg-chno="101" tvg-id="RTM" tvg-name="RTM01" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMSatu.png" group-title="Radio Televisyen Malaysia (RTM)",RTM 1
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
-#EXTINF:-1 tvg-chno="102" tvg-id="RTM" tvg-name="RTM02" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main//channel-logos/RTMDua.png" group-title="Radio Televisyen Malaysia (RTM)",RTM2
+#EXTINF:-1 tvg-chno="102" tvg-id="RTM" tvg-name="RTM02" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main//channel-logos/RTMDua.png" group-title="Radio Televisyen Malaysia (RTM)",RTM 2
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 #EXTINF:-1 tvg-chno="103" tvg-id="RTM" tvg-name="RTM03" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMOkey.png" group-title="Radio Televisyen Malaysia (RTM)",RTM Okey
@@ -15,7 +15,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?i
 #EXTINF:-1 tvg-chno="105" tvg-id="RTM" tvg-name="RTM05" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/BeritaRTM.png" group-title="Radio Televisyen Malaysia (RTM)",Berita RTM
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
-#EXTINF:-1 tvg-chno="106" tvg-id="RTM" tvg-name="RTM06" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMEnam.png" group-title="Radio Televisyen Malaysia (RTM)",RTM6
+#EXTINF:-1 tvg-chno="106" tvg-id="RTM" tvg-name="RTM06" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMEnam.png" group-title="Radio Televisyen Malaysia (RTM)",RTM 6
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
 #EXTINF:-1 tvg-chno="107" tvg-id="RTM" tvg-name="RTMP01" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMP_DewanRakyat.png" group-title="Radio Televisyen Malaysia (RTM)",RTM Parlimen Dewan Rakyat
