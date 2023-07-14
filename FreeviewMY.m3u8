@@ -55,10 +55,10 @@ https://live.mana2.my/Bernama/tracks-v1a1/mono.m3u8
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 #EXTINF:-1 tvg-chno="131" tvg-id="SUKETV.my" tvg-name="SUKETV.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/SUKETV.png" group-title="Others",SUKE TV
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/SukeTV/tracks-v1a1/mono.m3u8
+https://live.mana2.my/SukeTv/index.m3u8
 #EXTINF:-1 tvg-chno="150" tvg-id="AMC.my" tvg-name="TV Alhijrah" tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg" group-title="Others",TV Alhijrah
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/TVAH/tracks-v1a1/mono.m3u8
+https://live.mana2.my/TVAH/index.m3u8
 #EXTINF:-1 tvg-chno="151" tvg-id="TVIkim.my" tvg-name="TVIkim.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/tvikim.png" group-title="Others",TV Ikim
 #EXTVLCOPT:network-caching=1000
 http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
