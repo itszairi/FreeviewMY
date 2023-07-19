@@ -45,7 +45,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id
 #EXTINF:-1 tvg-chno="111" tvg-id="TVS.my" tvg-name="TVS.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/tvs.png" group-title="Astro (MEASAT Broadcast)",TVS
 #EXTVLCOPT:network-caching=1000
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-#EXTINF:-1 tvg-chno="113" tvg-id="AMC.my" tvg-name="TV Alhijrah" tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg" group-title="Others",TV Alhijrah
+#EXTINF:-1 tvg-chno="113" tvg-id="AMC.my" tvg-name="TV Alhijrah" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/TVAlhijrah.png" group-title="Others",TV Alhijrah
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/TvAlhijrah/index.m3u8
 #EXTINF:-1 tvg-chno="114" tvg-id="TVIkim.my" tvg-name="TVIkim.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/tvikim.png" group-title="Others",TV Ikim
@@ -122,10 +122,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ABCNe
 #EXTVLCOPT:network-caching=1000
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CBSNews/live
 
-#EXTINF:-1 tvg-chno="700" tvg-id="RTM" tvg-name="SukanRTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/SukanRTM.png" group-title="Radio Televisyen Malaysia (RTM)",Sukan RTM
+#EXTINF:-1 tvg-chno="701" tvg-id="RTM" tvg-name="SukanRTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/SukanRTM.png" group-title="Radio Televisyen Malaysia (RTM)",Sukan RTM
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
-#EXTINF:-1 tvg-chno="701" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RedBullTV.png" group-title="International Sports",Red Bull TV
+#EXTINF:-1 tvg-chno="702" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RedBullTV.png" group-title="International Sports",Red Bull TV
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
