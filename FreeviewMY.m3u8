@@ -88,13 +88,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?
 #EXTINF:-1 tvg-chno="605" tvg-id="AstroAwani.my" tvg-name="AstroAwani.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/astroawani.png" group-title="Astro (MEASAT Broadcast)",Astro Awani
 #EXTVLCOPT:network-caching=1000
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/astroawani/live
-#EXTINF:-1 tvg-chno="606" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/CNA.png" group-title="International News",CNA Singapore
+#EXTINF:-1 tvg-chno="606" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/CNA.png" group-title="International News",CNA Singapore
 #EXTVLCOPT:network-caching=1000
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-chno="607" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/TVRIWorld.png" group-title="International News",TVRI World
+#EXTINF:-1 tvg-chno="607" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/TVRIWorld.png" group-title="International News",TVRI World
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/TvriWorld/index.m3u8
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/NHKWorldJapan.png" group-title="International News",NHK World Japan
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/NHKWorldJapan.png" group-title="International News",NHK World Japan
 #EXTVLCOPT:network-caching=1000
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-chno="609" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/CGTN.png" group-title="International News",CGTN
