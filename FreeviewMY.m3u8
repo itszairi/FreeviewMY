@@ -102,7 +102,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-chno="610" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/TRTWorld.png" group-title="International News",TRT World
 #EXTVLCOPT:network-caching=1000
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Aljazeera.png" group-title="International News",Al Jazeera
 #EXTVLCOPT:network-caching=1000
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
@@ -127,7 +127,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CBSNe
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
 #EXTINF:-1 tvg-chno="702" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RedBullTV.png" group-title="International Sports",Red Bull TV
 #EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-chno="703" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/HorizonSports.png" group-title="International Sports",Horizon Sports
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/HorizonSports/index.m3u8
