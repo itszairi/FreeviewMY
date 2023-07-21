@@ -128,6 +128,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?i
 #EXTINF:-1 tvg-chno="702" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RedBullTV.png" group-title="International Sports",Red Bull TV
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-chno="703" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/HorizonSports.png" group-title="International Sports",Horizon Sports
+#EXTVLCOPT:network-caching=1000
+https://live.mana2.my/HorizonSports/index.m3u8
+#EXTINF:-1 tvg-chno="704" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/MotorRacingTV.png" group-title="International Sports",MotorRacing TV
+#EXTVLCOPT:network-caching=1000
+https://live.mana2.my/MotorracingTv/index.m3u8
 
 #EXTINF:-1 tvg-chno="901" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-NasionalFM.png" group-title="Radio Televisyen Malaysia (RTM);Radio",Nasional FM
 #EXTVLCOPT:network-caching=1000
