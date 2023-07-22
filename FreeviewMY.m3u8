@@ -43,7 +43,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id
 #EXTINF:-1 tvg-chno="111" tvg-id="TVS" tvg-name="TVS" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/tvs.png" group-title="General",TVS
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/tvs.png
-#EXTINF:-1 tvg-chno="113" tvg-id="TV Alhijrah" tvg-name="TV Alhijrah" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/TVAlhijrah.png" group-title="Islamic",TV Alhijrah
+#EXTINF:-1 tvg-chno="113" tvg-id="TVAlhijrah" tvg-name="TVAlhijrah" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/TVAlhijrah.png" group-title="Islamic",TV Alhijrah
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/TvAlhijrah/index.m3u8
 #EXTINF:-1 tvg-chno="114" tvg-id="TV IKIM" tvg-name="TV IKIM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/tvikim.png" group-title="Islamic",TV Ikim
@@ -65,7 +65,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8?
 #EXTINF:-1 tvg-chno="604" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMP_DewanNegara.png" group-title="Others",RTM Parlimen Dewan Negara
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?id=8
-#EXTINF:-1 tvg-chno="605" tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/astroawani.png" group-title="News",Astro Awani
+#EXTINF:-1 tvg-chno="605" tvg-id="AstroAwani" tvg-name="AstroAwani" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/astroawani.png" group-title="News",Astro Awani
 #EXTVLCOPT:network-caching=1000
 https://ythls.onrender.com/video/txxOwpdp58Q.m3u8
 #EXTINF:-1 tvg-chno="606" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/CNA.png" group-title="International News",CNA Singapore
@@ -74,7 +74,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/TVRIWorld.png" group-title="World",TVRI World
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/TvriWorld/index.m3u8
-#EXTINF:-1 tvg-chno="608" tvg-id="NHK World Japan" tvg-name="NHK World Japan" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/NHKWorldJapan.png" group-title="World",NHK World Japan
+#EXTINF:-1 tvg-chno="608" tvg-id="NHKWorldJapan" tvg-name="NHKWorldJapan" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/NHKWorldJapan.png" group-title="World",NHK World Japan
 #EXTVLCOPT:network-caching=1000
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-chno="609" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/CGTN.png" group-title="International News",CGTN
@@ -86,15 +86,9 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-chno="611" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Aljazeera.png" group-title="World",Al Jazeera
 #EXTVLCOPT:network-caching=1000
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/ABCNews-Australia.png" group-title="News",ABC News Australia
-#EXTVLCOPT:network-caching=1000
-https://ythls.onrender.com/video/vOTiJkg1voo.m3u8
-#EXTINF:-1 tvg-chno="613" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/DWNews.png" group-title="News",DW News
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/DWNews.png" group-title="News",DW News
 #EXTVLCOPT:network-caching=1000
 https://ythls.onrender.com/video/pqabxBKzZ6M.m3u8
-#EXTINF:-1 tvg-chno="614" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Euronews.png" group-title="News",Euronews
-#EXTVLCOPT:network-caching=1000
-https://ythls.onrender.com/video/pykpO5kQJ98.m3u8
 
 #EXTINF:-1 tvg-chno="630" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/FashionTV.png" group-title="Lifestyle",FashionTV
 #EXTVLCOPT:network-caching=1000
