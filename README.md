@@ -8,7 +8,7 @@ Besides free-to-air television channels, Freeview Malaysia also provides some in
 
 ## How to use?
 
-Just copy the link below on any supported IPTV players on PCs, Macs, smart TVs, Android devices including Android TV and iOS.
+Just copy the link below and apply it on any supported IPTV players on PCs, Macs, smart TVs, Android devices including Android TV and iOS.
 OTT Navigator app is highly recommended for Android users.
 
 ```bash
