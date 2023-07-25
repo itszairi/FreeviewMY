@@ -2,10 +2,10 @@
 
 #EXTINF:-1 tvg-chno="101" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMSatu.png" group-title="General",RTM TV 1
 #EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
 #EXTINF:-1 tvg-chno="102" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main//channel-logos/RTMDua.png" group-title="General",RTM TV 2
 #EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
 #EXTINF:-1 tvg-chno="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-tv3.png" group-title="General",Media Prima TV3
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-dra
 https://live.mana2.my/Mytv/index.m3u8
 #EXTINF:-1 tvg-chno="106" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMEnam.png" group-title="General",RTM TV 6
 #EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
 #EXTINF:-1 tvg-chno="107" tvg-id="DidikTVKPM" tvg-name="DidikTVKPM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-ntv7.png" group-title="General",Media Prima NTV7
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -55,16 +55,16 @@ https://live.mana2.my/SukeTv/index.m3u8
 
 #EXTINF:-1 tvg-chno="601" tvg-id="Berita RTM" tvg-name="Berita RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/BeritaRTM.png" group-title="News",Berita RTM
 #EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd?id=5
 #EXTINF:-1 tvg-chno="602" tvg-id="BNC" tvg-name="BNC" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/bernamatv.png" group-title="News",BERNAMA
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/Bernama/index.m3u8
 #EXTINF:-1 tvg-chno="603" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMP_DewanRakyat.png" group-title="Others",RTM Parlimen Dewan Rakyat
 #EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8?id=7
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd?id=7
 #EXTINF:-1 tvg-chno="604" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMP_DewanNegara.png" group-title="Others",RTM Parlimen Dewan Negara
 #EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?id=8
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 #EXTINF:-1 tvg-chno="605" tvg-id="AstroAwani" tvg-name="AstroAwani" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/astroawani.png" group-title="News",Astro Awani
 #EXTVLCOPT:network-caching=1000
 https://ythls.onrender.com/video/txxOwpdp58Q.m3u8
@@ -108,7 +108,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_d
 
 #EXTINF:-1 tvg-chno="701" tvg-id="Sukan RTM" tvg-name="Sukan RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/SukanRTM.png" group-title="Sports",Sukan RTM
 #EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
 #EXTINF:-1 tvg-chno="702" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RedBullTV.png" group-title="Sports",Red Bull TV
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -133,7 +133,7 @@ https://live.mana2.my/AiFm/index.m3u8
 https://live.mana2.my/MinnalFm/index.m3u8
 #EXTINF:-1 tvg-chno="905" tvg-id="Radio Klasik" tvg-name="Radio Klasik" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-RadioKlasik.png" group-title="Radio",RTM Radio Klasik
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/RadioKlasik/index.m3u8
+https://23733.live.streamtheworld.com/RADIO_KLASIKAAC.aac
 #EXTINF:-1 tvg-chno="906" tvg-id="Asyik FM" tvg-name="Asyik FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-AsyikFM.png" group-title="Radio",RTM Radio Asyik
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/AsyikFm/index.m3u8
