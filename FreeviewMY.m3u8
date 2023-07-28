@@ -16,7 +16,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-dramasangat.png
 #EXTINF:-1 tvg-chno="105" tvg-id="TV5" tvg-name="TV5" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/EnjoyTV-5.png" group-title="General",Enjoy TV 5
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/Mytv/index.m3u8
+https://live.mana2.my/Tv5/manifest.mpd
 #EXTINF:-1 tvg-chno="106" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMEnam.png" group-title="General",RTM TV 6
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
