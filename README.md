@@ -2,13 +2,17 @@
 
 Freeview Malaysia (or simply FreeviewMY) is an unofficial internet protocol television (IPTV)
 of the digital free-to-air television networks/channels as well as Digital/FM Radios
-that are exist in Malaysia. Some channel links that exist in this IPTV are sources based on MYTV Mana-Mana by MYTV Broadcasting
-and RTMKlik by Radio and Television of Malaysia (not to worry as these both OTT/streaming platforms are free to watch anywhere you're in).
+that are exist in Malaysia. Some channel links that exist in this IPTV are source-based on MYTV Mana-Mana by MYTV Broadcasting
+and RTMKlik by Radio and Television of Malaysia, also known as RTM (not to worry as these both OTT/streaming platforms are free to watch anywhere you're in).
 Besides free-to-air television channels, Freeview Malaysia also provides some free international channels such as TVRI World, TRT World, CNA, CGTN, etc.
+
+## Disclaimer
+
+This IPTV playlist is essentially an open-source playlist. Therefore, any transactions that regard buying or selling the playlist is STRICTLY PROHIBITED.
 
 ## The IPTV is for who?
 
-For all Malaysians.
+For all Malaysians (or maybe for all people).
 
 ## How to use?
 
