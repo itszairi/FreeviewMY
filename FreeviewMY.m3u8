@@ -8,9 +8,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
 #EXTINF:-1 tvg-chno="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_3.png" group-title="Family/Kids",Media Prima TV3
 #EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+https://raw.githubusercontent.com/itszairi/FreeviewMY/main/streaming/tv_channels/C103.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-id="Drama Sangat" tvg-name="Drama Sangat" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_DS.png" group-title="Family/Kids",Media Prima Drama Sangat
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/mpb-dramasangat.png
@@ -54,7 +52,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-chno="114" tvg-id="SelangorTV" tvg-name="SelangorTV" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/SelangorTV.png" group-title="News",SelangorTV
 #EXTVLCOPT:network-caching=1000
-https://ythls.onrender.com/video/kCWgrsf_YIQ.m3u8
+https://raw.githubusercontent.com/itszairi/FreeviewMY/main/streaming/tv_channels/C114.m3u8
 #EXTINF:-1 tvg-chno="115" tvg-id="TVS.my" tvg-name="TVS.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/TVS.png" group-title="Family/Kids",TVS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021
@@ -72,7 +70,7 @@ https://live.mana2.my/MyCinemaEurope/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd?id=5
 #EXTINF:-1 tvg-chno="602" tvg-id="BNC" tvg-name="BNC" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/BernamaTV.png" group-title="News",BERNAMA
 #EXTVLCOPT:network-caching=1000
-https://ythls.onrender.com/video/dHb-raVsofo.m3u8
+https://raw.githubusercontent.com/itszairi/FreeviewMY/main/streaming/tv_channels/C602.m3u8
 #EXTINF:-1 tvg-chno="603" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMP_DewanRakyat.png" group-title="News",RTM Parlimen Dewan Rakyat
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd?id=7
@@ -129,172 +127,89 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-chno="901" tvg-id="Nasional FM" tvg-name="Nasional FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-NasionalFM.png" group-title="Radio", RTM Radio Nasional
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/NasionalFm/manifest.mpd
+https://raw.githubusercontent.com/itszairi/FreeviewMY/main/streaming/radio/C901.m3u8
 #EXTINF:-1 tvg-chno="902" tvg-id="Traxx FM" tvg-name="Traxx FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-TraxxFM.png" group-title="Radio",RTM Radio Traxx
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/TraxxFm/manifest.mpd
+https://raw.githubusercontent.com/itszairi/FreeviewMY/main/streaming/radio/C902.m3u8
 #EXTINF:-1 tvg-chno="903" tvg-id="AI FM" tvg-name="AI FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-AiFM.png" group-title="Radio",RTM Radio Ai
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/AiFm/manifest.mpd
+https://raw.githubusercontent.com/itszairi/FreeviewMY/main/streaming/radio/C903.m3u8
 #EXTINF:-1 tvg-chno="904" tvg-id="Minnal FM" tvg-name="Minnal FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-MinnalFM.png" group-title="Radio",RTM Radio Minnal
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/MinnalFm/manifest.mpd
+https://raw.githubusercontent.com/itszairi/FreeviewMY/main/streaming/radio/C904.m3u8
 #EXTINF:-1 tvg-chno="905" tvg-id="Radio Klasik" tvg-name="Radio Klasik" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-RadioKlasik.png" group-title="Radio",RTM Radio Klasik
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/RadioKlasik/manifest.mpd
+https://raw.githubusercontent.com/itszairi/FreeviewMY/main/streaming/radio/C905.m3u8
 #EXTINF:-1 tvg-chno="906" tvg-id="Asyik FM" tvg-name="Asyik FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-AsyikFM.png" group-title="Radio",RTM Radio Asyik
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/AsyikFm/manifest.mpd
-#EXTINF:-1 tvg-chno="907" tvg-id="KL FM" tvg-name="KL FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/KLFM.png" group-title="Radio",RTM Radio KL
-#EXTVLCOPT:network-caching=1000
-https://22243.live.streamtheworld.com/KL_FMAAC.aac
-#EXTINF:-1 tvg-chno="908" tvg-id="Selangor FM" tvg-name="Selangor FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/SelangorFM.png" group-title="Radio",RTM Radio Selangor
-#EXTVLCOPT:network-caching=1000
-https://22243.live.streamtheworld.com/SELANGOR_FMAAC.aac
-#EXTINF:-1 tvg-chno="909" tvg-id="Johor FM" tvg-name="Johor FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/JohorFM.png" group-title="Radio",RTM Radio Johor
-#EXTVLCOPT:network-caching=1000
-https://22243.live.streamtheworld.com/JOHOR_FMAAC.aac
-#EXTINF:-1 tvg-chno="910" tvg-id="Melaka FM" tvg-name="Melaka FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/MelakaFM.png" group-title="Radio",RTM Radio Melaka
-#EXTVLCOPT:network-caching=1000
-https://23693.live.streamtheworld.com/MELAKA_FMAAC.aac
-#EXTINF:-1 tvg-chno="911" tvg-id="Negeri FM" tvg-name="Negeri FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/NegeriFM.png" group-title="Radio",RTM Radio Negeri
-#EXTVLCOPT:network-caching=1000
-https://23733.live.streamtheworld.com/NEGERI_FMAAC.aac
-#EXTINF:-1 tvg-chno="912" tvg-id="Pahang FM" tvg-name="Pahang FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/PahangFM.png" group-title="Radio",RTM Radio Pahang
-#EXTVLCOPT:network-caching=1000
-https://23693.live.streamtheworld.com/PAHANG_FMAAC.aac
-#EXTINF:-1 tvg-chno="913" tvg-id="Terengganu FM" tvg-name="Terengganu FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/TerengganuFM.png" group-title="Radio",RTM Radio Terengganu
-#EXTVLCOPT:network-caching=1000
-https://23733.live.streamtheworld.com/TERENGGANU_FMAAC.aac
-#EXTINF:-1 tvg-chno="914" tvg-id="Kelantan FM" tvg-name="Kelantan FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/KelantanFM.png" group-title="Radio",RTM Radio Kelantan
-#EXTVLCOPT:network-caching=1000
-https://23733.live.streamtheworld.com/KELANTAN_FMAAC.aac
-#EXTINF:-1 tvg-chno="915" tvg-id="Perak FM" tvg-name="Perak FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/PerakFM.png" group-title="Radio",RTM Radio Perak
-#EXTVLCOPT:network-caching=1000
-https://23733.live.streamtheworld.com/PERAK_FMAAC.aac
-#EXTINF:-1 tvg-chno="916" tvg-id="Mutiara FM" tvg-name="Mutiara FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/MutiaraFM.png" group-title="Radio",RTM Radio Mutiara
-#EXTVLCOPT:network-caching=1000
-https://23733.live.streamtheworld.com/MUTIARA_FMAAC.aac
-#EXTINF:-1 tvg-chno="917" tvg-id="Kedah FM" tvg-name="Kedah FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/KedahFM.png" group-title="Radio",RTM Radio Kedah
-#EXTVLCOPT:network-caching=1000
-https://23733.live.streamtheworld.com/KEDAH_FMAAC.aac
-#EXTINF:-1 tvg-chno="918" tvg-id="Langkawi FM" tvg-name="Langkawi FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/LangkawiFM.png" group-title="Radio",RTM Radio Langkawi
-#EXTVLCOPT:network-caching=1000
-https://23693.live.streamtheworld.com/LANGKAWI_FMAAC.aac
-#EXTINF:-1 tvg-chno="919" tvg-id="Perlis FM" tvg-name="Perlis FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/PerlisFM.png" group-title="Radio",RTM Radio Perlis
-#EXTVLCOPT:network-caching=1000
-https://23693.live.streamtheworld.com/PERLIS_FMAAC.aac
-#EXTINF:-1 tvg-chno="920" tvg-id="Sabah FM" tvg-name="Sabah FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/SabahFM.png" group-title="Radio",RTM Radio Sabah
-#EXTVLCOPT:network-caching=1000
-https://23733.live.streamtheworld.com/SABAH_FMAAC.aac
-#EXTINF:-1 tvg-chno="921" tvg-id="Sabah V FM" tvg-name="Sabah V FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/SabahVFM.png" group-title="Radio",RTM Radio SabahV
-#EXTVLCOPT:network-caching=1000
-https://22243.live.streamtheworld.com/SABAH_VFMAAC.aac
-#EXTINF:-1 tvg-chno="922" tvg-id="Sandakan FM" tvg-name="Sandakan FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/SandakanFM.png" group-title="Radio",Sandakan FM
-#EXTVLCOPT:network-caching=1000
-https://22243.live.streamtheworld.com/SANDAKAN_FMAAC.aac
-#EXTINF:-1 tvg-chno="923" tvg-id="Tawau FM" tvg-name="Tawau FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/TawauFM.png" group-title="Radio",Tawau FM
-#EXTVLCOPT:network-caching=1000
-https://23733.live.streamtheworld.com/TAWAU_FMAAC.aac
-#EXTINF:-1 tvg-chno="924" tvg-id="Keningau FM" tvg-name="Keningau FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/KeningauFM.png" group-title="Radio",Keningau FM
-#EXTVLCOPT:network-caching=1000
-https://23733.live.streamtheworld.com/KENINGAU_FMAAC.aac
-#EXTINF:-1 tvg-chno="925" tvg-id="Sarawak FM" tvg-name="Sarawak FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/SarawakFM.png" group-title="Radio",RTM Radio Sarawak
-#EXTVLCOPT:network-caching=1000
-https://23693.live.streamtheworld.com/SARAWAK_FMAAC.aac
-#EXTINF:-1 tvg-chno="926" tvg-id="Wai FM Iban" tvg-name="Wai FM Iban" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/WaiFM.png" group-title="Radio",RTM Radio Wai (Iban)
-#EXTVLCOPT:network-caching=1000
-https://23733.live.streamtheworld.com/WAI_FM_IBANAAC.aac
-#EXTINF:-1 tvg-chno="927" tvg-id="Wai FM" tvg-name="Wai FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/WaiFM-Bidayuh.png" group-title="Radio",RTM Radio Wai (BK)
-#EXTVLCOPT:network-caching=1000
-https://23733.live.streamtheworld.com/WAI_FM_BKAAC.aac
-#EXTINF:-1 tvg-chno="928" tvg-id="Red FM" tvg-name="Red FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RedFM.png" group-title="Radio",RTM Radio Red
-#EXTVLCOPT:network-caching=1000
-https://23693.live.streamtheworld.com/RED_FMAAC.aac
-#EXTINF:-1 tvg-chno="929" tvg-id="Bintulu FM" tvg-name="Bintulu FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/BintuluFM.png" group-title="Radio",Bintulu FM
-#EXTVLCOPT:network-caching=1000
-https://23733.live.streamtheworld.com/BINTULU_FMAAC.aac
-#EXTINF:-1 tvg-chno="930" tvg-id="Limbang FM" tvg-name="Limbang FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/LimbangFM.png" group-title="Radio",Limbang FM
-#EXTVLCOPT:network-caching=1000
-https://23693.live.streamtheworld.com/LIMBANGAAC.aac
-#EXTINF:-1 tvg-chno="931" tvg-id="Miri FM" tvg-name="Miri FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/MiriFM.png" group-title="Radio",Miri FM
-#EXTVLCOPT:network-caching=1000
-https://23693.live.streamtheworld.com/MIRI_FMAAC.aac
-#EXTINF:-1 tvg-chno="932" tvg-id="Sibu FM" tvg-name="Sibu FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/SibuFM.png" group-title="Radio",Sibu FM
-#EXTVLCOPT:network-caching=1000
-https://23693.live.streamtheworld.com/SIBU_FMAAC.aac
-#EXTINF:-1 tvg-chno="933" tvg-id="Sri Aman FM" tvg-name="Sri Aman FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/SriAmanFM.png" group-title="Radio",Sri Aman FM
-#EXTVLCOPT:network-caching=1000
-https://23693.live.streamtheworld.com/SRIAMAN_FMAAC.aac
-#EXTINF:-1 tvg-chno="934" tvg-id="Labuan FM" tvg-name="Labuan FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/LabuanFM.png" group-title="Radio",RTM Radio Labuan
-#EXTVLCOPT:network-caching=1000
-https://23733.live.streamtheworld.com/LABUAN_FMAAC.aac
-#EXTINF:-1 tvg-chno="935" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-hotfm.png" group-title="Radio",Hot FM (Media Prima Audio)
+https://raw.githubusercontent.com/itszairi/FreeviewMY/main/streaming/radio/C906.m3u8
+
+#EXTINF:-1 tvg-chno="907" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-hotfm.png" group-title="Radio",Hot FM (Media Prima Audio)
 #EXTVLCOPT:network-caching=1000
 https://mediaprima.rastream.com/mediaprima-hotfm
-#EXTINF:-1 tvg-chno="936" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-flyfm.png" group-title="Radio",Fly FM (Media Prima Audio)
+#EXTINF:-1 tvg-chno="908" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-flyfm.png" group-title="Radio",Fly FM (Media Prima Audio)
 #EXTVLCOPT:network-caching=1000
 https://mediaprima.rastream.com/mediaprima-flyfm
-#EXTINF:-1 tvg-chno="937" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-8fm.png" group-title="Radio",Eight FM (Media Prima Audio)
+#EXTINF:-1 tvg-chno="909" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-8fm.png" group-title="Radio",Eight FM (Media Prima Audio)
 #EXTVLCOPT:network-caching=1000
 https://mediaprima.rastream.com/mediaprima-onefm
-#EXTINF:-1 tvg-chno="938" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-molekfm.png" group-title="Radio",Molek FM (Media Prima Audio)
+#EXTINF:-1 tvg-chno="910" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-molekfm.png" group-title="Radio",Molek FM (Media Prima Audio)
 #EXTVLCOPT:network-caching=1000
 https://mediaprima.rastream.com/mediaprima-molekfm
-#EXTINF:-1 tvg-chno="939" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-kool101-dark.png" group-title="Radio",Kool 101 (Media Prima Audio)
+#EXTINF:-1 tvg-chno="911" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-kool101-dark.png" group-title="Radio",Kool 101 (Media Prima Audio)
 #EXTVLCOPT:network-caching=1000
 https://mediaprima.rastream.com/mediaprima-koolfm
-#EXTINF:-1 tvg-chno="940" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/BFM89.9.png" group-title="Radio",BFM 89.9
+#EXTINF:-1 tvg-chno="912" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/BFM89.9.png" group-title="Radio",BFM 89.9
 #EXTVLCOPT:network-caching=1000
 https://23683.live.streamtheworld.com/BFMAAC.aac
-#EXTINF:-1 tvg-chno="941" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/BestFM.png" group-title="Radio",Best FM
+#EXTINF:-1 tvg-chno="913" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/BestFM.png" group-title="Radio",Best FM
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/BestFm/manifest.mpd
-#EXTINF:-1 tvg-chno="942" tvg-id="HITZ" tvg-name="HITZ" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/hitz.png" group-title="Radio",Hitz (Astro Radio)
+#EXTINF:-1 tvg-chno="914" tvg-id="HITZ" tvg-name="HITZ" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/hitz.png" group-title="Radio",Hitz (Astro Radio)
 #EXTVLCOPT:network-caching=1000
 https://astro1.rastream.com/hitz
-#EXTINF:-1 tvg-chno="943" tvg-id="LITE" tvg-name="LITE" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/lite.png" group-title="Radio",Lite (Astro Radio)
+#EXTINF:-1 tvg-chno="915" tvg-id="LITE" tvg-name="LITE" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/lite.png" group-title="Radio",Lite (Astro Radio)
 #EXTVLCOPT:network-caching=1000
-https://ythls.onrender.com/video/CoKp26X60NU.m3u8
-#EXTINF:-1 tvg-chno="944" tvg-id="MIX" tvg-name="MIX" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/mix.png" group-title="Radio",Mix (Astro Radio)
+https://raw.githubusercontent.com/itszairi/FreeviewMY/main/streaming/radio/C915.m3u8
+#EXTINF:-1 tvg-chno="916" tvg-id="MIX" tvg-name="MIX" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/mix.png" group-title="Radio",Mix (Astro Radio)
 #EXTVLCOPT:network-caching=1000
 https://astro2.rastream.com/mix
-#EXTINF:-1 tvg-chno="945" tvg-id="ERA" tvg-name="ERA" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/era.png" group-title="Radio",Era (Astro Radio)
+#EXTINF:-1 tvg-chno="917" tvg-id="ERA" tvg-name="ERA" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/era.png" group-title="Radio",Era (Astro Radio)
 #EXTVLCOPT:network-caching=1000
 https://astro2.rastream.com/era
-#EXTINF:-1 tvg-chno="946" tvg-id="SINAR" tvg-name="SINAR" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/sinar.png" group-title="Radio",Sinar (Astro Radio)
+#EXTINF:-1 tvg-chno="918" tvg-id="SINAR" tvg-name="SINAR" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/sinar.png" group-title="Radio",Sinar (Astro Radio)
 #EXTVLCOPT:network-caching=1000
 https://astro2.rastream.com/sinar
-#EXTINF:-1 tvg-chno="947" tvg-id="ZAYAN" tvg-name="ZAYAN" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/zayan.png" group-title="Radio",Zayan (Astro Radio)
+#EXTINF:-1 tvg-chno="919" tvg-id="ZAYAN" tvg-name="ZAYAN" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/zayan.png" group-title="Radio",Zayan (Astro Radio)
 #EXTVLCOPT:network-caching=1000
 https://astro3.rastream.com/astro-zayan
-#EXTINF:-1 tvg-chno="948" tvg-id="GEGAR" tvg-name="GEGAR" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/gegar.png" group-title="Radio",Gegar (Astro Radio)
+#EXTINF:-1 tvg-chno="920" tvg-id="GEGAR" tvg-name="GEGAR" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/gegar.png" group-title="Radio",Gegar (Astro Radio)
 #EXTVLCOPT:network-caching=1000
 https://astro3.rastream.com/gegar
-#EXTINF:-1 tvg-chno="949" tvg-id="RAAGA" tvg-name="RAAGA" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/raaga.png" group-title="Radio",Raaga (Astro Radio)
+#EXTINF:-1 tvg-chno="921" tvg-id="RAAGA" tvg-name="RAAGA" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/raaga.png" group-title="Radio",Raaga (Astro Radio)
 #EXTVLCOPT:network-caching=1000
 https://astro3.rastream.com/raaga
-#EXTINF:-1 tvg-chno="950" tvg-id="MY" tvg-name="MY" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/my.png" group-title="Radio",MY (Astro Radio)
+#EXTINF:-1 tvg-chno="922" tvg-id="MY" tvg-name="MY" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/my.png" group-title="Radio",MY (Astro Radio)
 #EXTVLCOPT:network-caching=1000
 https://astro1.rastream.com/myfm
-#EXTINF:-1 tvg-chno="951" tvg-id="MELODY" tvg-name="MELODY" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/melody.png" group-title="Radio",Melody (Astro Radio)
+#EXTINF:-1 tvg-chno="923" tvg-id="MELODY" tvg-name="MELODY" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/melody.png" group-title="Radio",Melody (Astro Radio)
 #EXTVLCOPT:network-caching=1000
 https://astro3.rastream.com/melody
-#EXTINF:-1 tvg-chno="952" tvg-id="GOXUAN" tvg-name="GOXUAN" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/goxuan.png" group-title="Radio",goXuan (Astro Radio)
+#EXTINF:-1 tvg-chno="924" tvg-id="GOXUAN" tvg-name="GOXUAN" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/goxuan.png" group-title="Radio",goXuan (Astro Radio)
 #EXTVLCOPT:network-caching=1000
 https://astro3.rastream.com/astro-goxuan
-#EXTINF:-1 tvg-chno="953" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/BernamaRadio.png" group-title="Radio",BERNAMA Radio
+#EXTINF:-1 tvg-chno="925" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/988fm.png" group-title="Radio",988 FM
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/BernamaRadio/manifest.mpd
-#EXTINF:-1 tvg-chno="954" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/suriafm.png" group-title="Radio",Suria FM
+https://raw.githubusercontent.com/itszairi/FreeviewMY/main/streaming/radio/C925.m3u8
+#EXTINF:-1 tvg-chno="926" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/BernamaRadio.png" group-title="Radio",BERNAMA Radio
 #EXTVLCOPT:network-caching=1000
-https://22273.live.streamtheworld.com/SURIA_FMAAC.aac
-#EXTINF:-1 tvg-chno="955" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/988fm.png" group-title="Radio",988 FM
+https://bernama.rastream.com/bernama-bernama
+#EXTINF:-1 tvg-chno="927" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/ManisFM.png" group-title="Radio",Manis FM
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/988Fm/manifest.mpd
-#EXTINF:-1 tvg-chno="956" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/ManisFM.png" group-title="Radio",Manis FM
+https://raw.githubusercontent.com/itszairi/FreeviewMY/main/streaming/radio/C927.m3u8
+#EXTINF:-1 tvg-chno="928" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/suriafm.png" group-title="Radio",Suria FM
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/ManisFm/manifest.mpd
-#EXTINF:-1 tvg-chno="957" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RadioIKIM.png" group-title="Radio",Radio IKIM
+https://raw.githubusercontent.com/itszairi/FreeviewMY/main/streaming/radio/C928.m3u8
+#EXTINF:-1 tvg-chno="929" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RadioIKIM.png" group-title="Radio",Radio IKIM
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/RadioIkim/manifest.mpd
