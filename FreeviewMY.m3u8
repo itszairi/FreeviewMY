@@ -124,7 +124,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-chno="614" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/euronews.png" group-title="World",Euronews
 #EXTVLCOPT:network-caching=1000
-https://ythls.onrender.com/video/pykpO5kQJ98.m3u8
+https://ythls.onrender.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
 #EXTINF:-1 tvg-chno="615" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/ted.png" group-title="World",TED
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8
