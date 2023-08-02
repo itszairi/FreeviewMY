@@ -172,7 +172,7 @@ https://live.mana2.my/BestFm/manifest.mpd
 https://astro1.rastream.com/hitz
 #EXTINF:-1 tvg-chno="915" tvg-id="LITE" tvg-name="LITE" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/lite.png" group-title="Radio",Lite (Astro Radio)
 #EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/itszairi/FreeviewMY/main/streaming/radio/C915.m3u8
+https://raw.githubusercontent.com/itszairi/FreeviewMY/main/streaming/radio/C915.m3u
 #EXTINF:-1 tvg-chno="916" tvg-id="MIX" tvg-name="MIX" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/mix.png" group-title="Radio",Mix (Astro Radio)
 #EXTVLCOPT:network-caching=1000
 https://astro2.rastream.com/mix
