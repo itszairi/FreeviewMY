@@ -1,4 +1,4 @@
 #EXTM3U
-
-#EXTVLCOPT:network-caching=1000
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
 https://23733.live.streamtheworld.com/NASIONAL_FMAAC.aac
