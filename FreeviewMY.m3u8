@@ -79,6 +79,9 @@ https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 #EXTINF:-1 tvg-chno="505" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/cookingpanda.png" group-title="Food & Travel",Cooking Panda
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
+#EXTINF:-1 tvg-chno="506" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/gtv.png" group-title="Food & Travel",Gusto TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-dash-sooka/index.mpd
 #EXTINF:-1 tvg-chno="507" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/naturestreamtv.png" group-title="Wellness",NatureStream.tv
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
