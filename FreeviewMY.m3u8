@@ -2,10 +2,10 @@
 
 #EXTINF:-1 tvg-chno="101" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM1.png" group-title="Family/Kids",RTM TV 1
 #EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main//channel-logos/RTM2.png" group-title="Family/Kids",RTM TV 2
 #EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_3.png" group-title="Family/Kids",Media Prima TV3
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -19,7 +19,7 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8|Referer=https:
 https://live.mana2.my/Tv5/manifest.mpd|Referer=https://live.mana2.my/
 #EXTINF:-1 tvg-chno="106" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM6.png" group-title="Family/Kids",RTM TV 6
 #EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/index.m3u8
 #EXTINF:-1 tvg-chno="107" tvg-id="DidikTVKPM" tvg-name="DidikTVKPM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_7.png" group-title="Family/Kids",Media Prima NTV7
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -39,7 +39,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live09.mpd
 #EXTINF:-1 tvg-chno="110" tvg-id="Okey" tvg-name="Okey" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM_Okey.png" group-title="Family/Kids",RTM Okey
 #EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8
 #EXTINF:-1 tvg-chno="111" tvg-id="AwesomeTV.my" tvg-name="AwesomeTV.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/AwesomeTV.png" group-title="Family/Kids",Awesome TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/ 
@@ -88,16 +88,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-chno="601" tvg-id="Berita RTM" tvg-name="Berita RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/Berita_RTM.png" group-title="News",Berita RTM
 #EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd?id=5
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8
 #EXTINF:-1 tvg-chno="602" tvg-id="BNC" tvg-name="BNC" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/BernamaTV.png" group-title="News",BERNAMA
 #EXTVLCOPT:network-caching=1000
 https://ythls.onrender.com/video/dHb-raVsofo.m3u8
 #EXTINF:-1 tvg-chno="603" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMP_DewanRakyat.png" group-title="News",RTM Parlimen Dewan Rakyat
 #EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd?id=7
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/index.m3u8
 #EXTINF:-1 tvg-chno="604" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMP_DewanNegara.png" group-title="News",RTM Parlimen Dewan Negara
 #EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8
 #EXTINF:-1 tvg-chno="605" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/CNA.png" group-title="World",CNA Singapore
 #EXTVLCOPT:network-caching=1000
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -137,7 +137,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-chno="701" tvg-id="Sukan RTM" tvg-name="Sukan RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/Sukan_RTM.png" group-title="Sports",Sukan RTM
 #EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8
 #EXTINF:-1 tvg-chno="702" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/HorizonSports.png" group-title="Sports",Horizon Sports
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
@@ -151,27 +151,27 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-chno="711" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-1.e6d2b3e1.svg",RTM 2023 Asian Games 1
 #EXTGRP:[*] Pop-up Channels
 #EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/index.m3u8
 #EXTINF:-1 tvg-chno="712" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-2.90b563ba.svg",RTM 2023 Asian Games 2
 #EXTGRP:[*] Pop-up Channels
 #EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/index.m3u8
 #EXTINF:-1 tvg-chno="713" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-3.2ef7a3fb.svg",RTM 2023 Asian Games 3
 #EXTGRP:[*] Pop-up Channels
 #EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/index.m3u8
 #EXTINF:-1 tvg-chno="714" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-4.3146c5db.svg",RTM 2023 Asian Games 4
 #EXTGRP:[*] Pop-up Channels
 #EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/index.m3u8
 #EXTINF:-1 tvg-chno="715" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-5.6b9e3428.svg",RTM 2023 Asian Games 5
 #EXTGRP:[*] Pop-up Channels
 #EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/index.m3u8
 #EXTINF:-1 tvg-chno="716" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-6.0c3e5ba7.svg",RTM 2023 Asian Games 6
 #EXTGRP:[*] Pop-up Channels
 #EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag6/manifest.mpd
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag6/index.m3u8
 
 #EXTINF:-1 tvg-chno="901" tvg-id="Nasional FM" tvg-name="Nasional FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-NasionalFM.png" group-title="Radio",RTM Radio Nasional
 #EXTVLCOPT:network-caching=1000
@@ -211,7 +211,7 @@ https://mediaprima.rastream.com/mediaprima-koolfm
 https://astro1.rastream.com/hitz
 #EXTINF:-1 tvg-chno="913" tvg-id="LITE" tvg-name="LITE" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/lite.png" group-title="Radio",Lite (Astro Radio)
 #EXTVLCOPT:network-caching=1000
-https://ythls.onrender.com/video/HiAOGjtkbI4.m3u8
+https://astro1.rastream.com/lite
 #EXTINF:-1 tvg-chno="914" tvg-id="MIX" tvg-name="MIX" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/mix.png" group-title="Radio",Mix (Astro Radio)
 #EXTVLCOPT:network-caching=1000
 https://astro2.rastream.com/mix
