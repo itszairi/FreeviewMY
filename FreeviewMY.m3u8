@@ -318,7 +318,7 @@ https://live.mana2.my/RadioIkim/manifest.mpd
 #################### PLUS ####################
 
 #EXTINF:-1 tvg-chno="1001" tvg-id="RTBAneka.bn" tvg-name="RTBAneka" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/plus/sea-fta/RTB_Aneka.png",RTB Aneka 🇧🇳
-#EXTGRP:[*]  PLUS/SEA's FTA Channels
+#EXTGRP:[*] PLUS/SEA's FTA Channels
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
