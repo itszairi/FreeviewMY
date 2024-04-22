@@ -122,18 +122,11 @@ https://live.mana2.my/SukeTv/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://crackle-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="203" tvg-id="FamilyFlix" tvg-name="FamilyFlix" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/FamilyFlix.png",Family Flix
-#EXTGRP:Movies
-#EXTVLCOPT:network-caching=1000
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="204" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/FlicksOfFury.png",Flicks of Fury
 #EXTGRP:Movies
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
-#EXTINF:-1 tvg-chno="205" tvg-id="Moviesphere" tvg-name="Moviesphere" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Moviesphere.png", Moviesphere
-#EXTGRP:Movies
-#EXTVLCOPT:network-caching=1000
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="206" tvg-id="ParamountPlus.Picks" tvg-name="ParamountPlus.Picks" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/ParamountPlusPicks.png",Paramount+ Picks
 #EXTGRP:Movies
 #EXTVLCOPT:network-caching=1000
@@ -200,7 +193,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/TVRIWorld.png",TVRI World
 #EXTGRP:News/World
 #EXTVLCOPT:network-caching=1000
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8|Referer=https://klik.tvri.co.id/
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/index.m3u8|Referer=https://klik.tvri.co.id/
 #EXTINF:-1 tvg-chno="603" tvg-id="NHKWorldJapan" tvg-name="NHKWorldJapan" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/NHKWorldJapan.png",NHK World Japan
 #EXTGRP:News/World
 #EXTVLCOPT:network-caching=1000
