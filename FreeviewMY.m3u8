@@ -270,7 +270,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC
-#EXTINF:-1 tvg-chno="906" tvg-id="Asyik FM" tvg-name="Asyik FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-AsyikFM.png",RTM Radio Asyik
+#EXTINF:-1 tvg-chno="906" tvg-id="Asyik FM" tvg-name="Asyik FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-AsyikFM.png",RTM Radio Asyik / RTM Radio Salam
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC
@@ -358,6 +358,10 @@ https://stream.rcs.revma.com/nzgauqq1v7zuv
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
+#EXTINF:-1 tvg-chno="928" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/",RTM Radio Muzik (TEST)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.muzikfmrtm.com/live/myStream/index.m3u8
 
 #################### SEA's FTA Channels ####################
 
