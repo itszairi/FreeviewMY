@@ -7,7 +7,7 @@ provides some free international channels such as TVRI World, TRT World, CNA, NH
 
 ## Disclaimer
 
-This IPTV playlist is essentially an open-source playlist. Therefore, any transactions that regard buying or selling the playlist is STRICTLY PROHIBITED.
+This IPTV playlist is essentially an open-source playlist and 100% not affiliated with any 3rd party streaming providers. Therefore, any transactions that regard buying or selling the playlist is STRICTLY PROHIBITED.
 
 ## The IPTV is for who?
 
