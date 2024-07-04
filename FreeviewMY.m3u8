@@ -72,7 +72,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default_primary.mp
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ {'1406bbf218ca14f967034fcf4abf7710':'F39a27aa2cc84a29b665fcc4dbf9c54b6'} ], "type":"temporary"}
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
 #EXTINF:-1 tvg-chno="122" tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/TVAlhijrah.png",TV Alhijrah
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
