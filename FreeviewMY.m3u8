@@ -189,7 +189,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/in
 #EXTINF:-1 tvg-chno="607" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/TRTWorld.png",TRT World
 #EXTGRP:News/World
 #EXTVLCOPT:network-caching=1000
-https://tv-trtworld.live.trt.com.tr/master.m3u8
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-chno="608" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/AlJazeeraEN.png",Al Jazeera English
 #EXTGRP:News/World
 #EXTVLCOPT:network-caching=1000
