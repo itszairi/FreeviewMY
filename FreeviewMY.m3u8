@@ -90,6 +90,8 @@ https://live.mana2.my/SelangorTv/index.m3u8
 #EXTINF:-1 tvg-chno="126" tvg-id="SUKETV.my" tvg-name="SUKETV.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/SUKETV.png",SUKE TV
 #EXTGRP:Variety
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.mana2.my/
 https://live.mana2.my/SukeTv/index.m3u8
 
 
