@@ -62,6 +62,12 @@ https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/index.m3u8
+#EXTINF:-1 tvg-chno="120" tvg-id="AwesomeTV.my" tvg-name="AwesomeTV.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/AwesomeTV.png",Awesome TV (Alt)
+#EXTGRP:Family/Kids
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8
 #EXTINF:-1 tvg-chno="121" tvg-id="BERNAMA.my" tvg-name="BERNAMA.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/BernamaTV.png",BERNAMA
 #EXTGRP:News/World
 #EXTVLCOPT:network-caching=1000
@@ -426,3 +432,35 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
 #################### TEST ####################
+
+#EXTINF:-1 tvg-chno="1301" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RTMAsean.png",RTM Asean
+#EXTGRP:News/World
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/index.m3u8
+
+#################### PARIS 2024 PARA GAMES ####################
+
+#EXTINF:-1 tvg-chno="1701" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/para-channel-1a.png",RTM Paris 2024 Paralympic Games CH 1
+#EXTGRP:[*] SE: PARIS 2024 PARALYMPIC GAMES
+#EXTVLCOPT:network-caching=1000
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
+#EXTINF:-1 tvg-chno="1701" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/para-channel-2a.png",RTM Paris 2024 Paralympic Games CH 2
+#EXTGRP:[*] SE: PARIS 2024 PARALYMPIC GAMES
+#EXTVLCOPT:network-caching=1000
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
+#EXTINF:-1 tvg-chno="1701" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/para-channel-3a.png",RTM Paris 2024 Paralympic Games CH 3
+#EXTGRP:[*] SE: PARIS 2024 PARALYMPIC GAMES
+#EXTVLCOPT:network-caching=1000
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
+#EXTINF:-1 tvg-chno="1701" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/para-channel-4a.png",RTM Paris 2024 Paralympic Games CH 4
+#EXTGRP:[*] SE: PARIS 2024 PARALYMPIC GAMES
+#EXTVLCOPT:network-caching=1000
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
+#EXTINF:-1 tvg-chno="1701" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/para-channel-5a.png",RTM Paris 2024 Paralympic Games CH 5
+#EXTGRP:[*] SE: PARIS 2024 PARALYMPIC GAMES
+#EXTVLCOPT:network-caching=1000
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
+#EXTINF:-1 tvg-chno="1701" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/para-channel-6a.png",RTM Paris 2024 Paralympic Games CH 6
+#EXTGRP:[*] SE: PARIS 2024 PARALYMPIC GAMES
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
