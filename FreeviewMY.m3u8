@@ -393,6 +393,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1201" tvg-id="Ch 5.sg" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Mediacorp_Channel_5.png",Mediacorp Channel 5 🇸🇬
 #EXTGRP:[*] PLUS: SEA's FTA Channels
+https://tinyurl.com/2c3bacne
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -401,6 +403,8 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 
 #EXTINF:-1 tvg-chno="1202" tvg-id="Ch 8.sg" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Mediacorp_Channel_8.png",Mediacorp Channel 8 🇸🇬
 #EXTGRP:[*] PLUS: SEA's FTA Channels
+https://tinyurl.com/577pp6pu
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -409,6 +413,8 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 
 #EXTINF:-1 tvg-chno="1203" tvg-id="Ch U.sg" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Mediacorp_Channel_U.png",Mediacorp Channel U 🇸🇬
 #EXTGRP:[*] PLUS: SEA's FTA Channels
+https://tinyurl.com/4mj9zm9m
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -417,6 +423,8 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 
 #EXTINF:-1 tvg-chno="1204" tvg-id="Suria.sg" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Mediacorp_Suria.png",Mediacorp Suria 🇸🇬
 #EXTGRP:[*] PLUS: SEA's FTA Channels
+https://tinyurl.com/3rs3n23f
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -425,6 +433,8 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 
 #EXTINF:-1 tvg-chno="1205" tvg-id="Vasantham.sg" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Mediacorp_Vasantham.png",Mediacorp Vasantham 🇸🇬
 #EXTGRP:[*] PLUS: SEA's FTA Channels
+https://tinyurl.com/25zf7k62
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
