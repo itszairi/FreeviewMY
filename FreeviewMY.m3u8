@@ -350,7 +350,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
 #EXTINF:-1 tvg-chno="928" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/",RTM Radio Muzik (TEST)
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
-https://stream.muzikfmrtm.com/live/myStream/index.m3u8
+https://play.radioking.io/muzikfm
+https://listen.radioking.com/radio/663445/stream/727324
 
 #################### SEA's FTA Channels ####################
 
