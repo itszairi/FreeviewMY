@@ -42,7 +42,10 @@ https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23
 #EXTINF:-1 tvg-chno="114" tvg-id="MPBDramaSangat" tvg-name="MPBDramaSangat" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_DS.png",Media Prima DramaSangat
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
+https://tonton-live-sg3.akamaized.net/live-hls/tonton10.m3u8?&hdnts=exp=1726566502~hmac=8934e60b013c034b1a66c298e30c3aa85cea517b743b24c9c12120b908c78ca2
+
 https://tonton-live-sg3.akamaized.net/live-hls/tonton10.m3u8
+
 #EXTINF:-1 tvg-chno="117" tvg-id="DidikTVKPM" tvg-name="DidikTVKPM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_7.png",Media Prima NTV7
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
