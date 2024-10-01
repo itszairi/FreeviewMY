@@ -30,23 +30,23 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC
 #EXTINF:-1 tvg-chno="907" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-hotfm.png",Hot FM (Media Prima Audio)
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
-https://mediaprima.rastream.com/mediaprima-hotfm
+https://stream.rcs.revma.com/drakdf8mtd3vv
 #EXTINF:-1 tvg-chno="908" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-flyfm.png",Fly FM (Media Prima Audio)
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
-https://mediaprima.rastream.com/mediaprima-flyfm
+https://stream.rcs.revma.com/q17aka9mtd3vv
 #EXTINF:-1 tvg-chno="909" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-eightfm.png",Eight FM (Media Prima Audio)
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
-https://mediaprima.rastream.com/mediaprima-onefm
+https://stream.rcs.revma.com/qp0xrd9mtd3vv
 #EXTINF:-1 tvg-chno="910" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-molekfm.png",Molek FM (Media Prima Audio)
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
-https://mediaprima.rastream.com/mediaprima-molekfm
+https://stream.rcs.revma.com/z56xa78mtd3vv
 #EXTINF:-1 tvg-chno="911" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-kool101-dark.png",Kool 101 (Media Prima Audio)
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
-https://mediaprima.rastream.com/mediaprima-koolfm
+https://stream.rcs.revma.com/3930238mtd3vv
 #EXTINF:-1 tvg-chno="912" tvg-id="HITZ" tvg-name="HITZ" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/hitz.png",Hitz (Astro Radio)
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
@@ -114,6 +114,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
 #EXTINF:-1 tvg-chno="928" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/",RTM Radio Muzik (TEST)
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
-https://stream.muzikfmrtm.com/live/myStream/index.m3u8
+https://play.radioking.io/muzikfm
+https://listen.radioking.com/radio/663445/stream/727324
 
 #################### END ####################
