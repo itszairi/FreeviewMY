@@ -269,23 +269,23 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC
 #EXTINF:-1 tvg-chno="907" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-hotfm.png",Hot FM (Media Prima Audio)
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
-https://mediaprima.rastream.com/mediaprima-hotfm
+https://stream.rcs.revma.com/drakdf8mtd3vv
 #EXTINF:-1 tvg-chno="908" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-flyfm.png",Fly FM (Media Prima Audio)
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
-https://mediaprima.rastream.com/mediaprima-flyfm
+https://stream.rcs.revma.com/q17aka9mtd3vv
 #EXTINF:-1 tvg-chno="909" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-eightfm.png",Eight FM (Media Prima Audio)
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
-https://mediaprima.rastream.com/mediaprima-onefm
+https://stream.rcs.revma.com/qp0xrd9mtd3vv
 #EXTINF:-1 tvg-chno="910" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-molekfm.png",Molek FM (Media Prima Audio)
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
-https://mediaprima.rastream.com/mediaprima-molekfm
+https://stream.rcs.revma.com/z56xa78mtd3vv
 #EXTINF:-1 tvg-chno="911" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-kool101-dark.png",Kool 101 (Media Prima Audio)
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
-https://mediaprima.rastream.com/mediaprima-koolfm
+https://stream.rcs.revma.com/3930238mtd3vv
 #EXTINF:-1 tvg-chno="912" tvg-id="HITZ" tvg-name="HITZ" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/hitz.png",Hitz (Astro Radio)
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
@@ -454,30 +454,3 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 #EXTGRP:News/World
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/index.m3u8
-
-#################### PARIS 2024 PARA GAMES ####################
-
-#EXTINF:-1 tvg-chno="1701" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/para-channel-1a.png",RTM Paris 2024 Paralympic Games CH 1
-#EXTGRP:[*] SE: PARIS 2024 PARALYMPIC GAMES
-#EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
-#EXTINF:-1 tvg-chno="1701" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/para-channel-2a.png",RTM Paris 2024 Paralympic Games CH 2
-#EXTGRP:[*] SE: PARIS 2024 PARALYMPIC GAMES
-#EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
-#EXTINF:-1 tvg-chno="1701" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/para-channel-3a.png",RTM Paris 2024 Paralympic Games CH 3
-#EXTGRP:[*] SE: PARIS 2024 PARALYMPIC GAMES
-#EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
-#EXTINF:-1 tvg-chno="1701" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/para-channel-4a.png",RTM Paris 2024 Paralympic Games CH 4
-#EXTGRP:[*] SE: PARIS 2024 PARALYMPIC GAMES
-#EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
-#EXTINF:-1 tvg-chno="1701" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/para-channel-5a.png",RTM Paris 2024 Paralympic Games CH 5
-#EXTGRP:[*] SE: PARIS 2024 PARALYMPIC GAMES
-#EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
-#EXTINF:-1 tvg-chno="1701" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/para-channel-6a.png",RTM Paris 2024 Paralympic Games CH 6
-#EXTGRP:[*] SE: PARIS 2024 PARALYMPIC GAMES
-#EXTVLCOPT:network-caching=1000
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
